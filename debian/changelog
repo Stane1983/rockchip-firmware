@@ -1,4 +1,4 @@
-rockchip-firmware (20231105.git2107be54-19~noblf) bookworm; urgency=medium
+rockchip-firmware (20231105.git2107be54-19~bookworm) bookworm; urgency=medium
 
   * Add RTL8852BE firmware
 
