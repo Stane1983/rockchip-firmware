@@ -1,0 +1,125 @@
+rockchip-firmware (20231105.git2107be54-19~noblf) bookworm; urgency=medium
+
+  * Add RTL8852BE firmware
+
+ -- Stanislav Vlasic <svlasic@gmail.com>  Thu, 03 Oct 2024 08:55:21 +0200
+
+rockchip-firmware (20231105.git2107be54-19~noble) noble; urgency=medium
+
+  * Add firmware for the ap6611s
+
+ -- Joshua Riek <jjriek@verizon.net>  Sun, 28 Jul 2024 15:19:10 -0400
+
+rockchip-firmware (20231105.git2107be54-18~noble) noble; urgency=medium
+
+  * Add symlink for the Orange Pi 5 Pro
+
+ -- Joshua Riek <jjriek@verizon.net>  Sun, 14 Jul 2024 17:06:07 -0400
+
+rockchip-firmware (20231105.git2107be54-17~noble) noble; urgency=medium
+
+  * Add BCM4345C5.hcd for the Orange Pi 5 Pro
+
+ -- Joshua Riek <jjriek@verizon.net>  Mon, 29 Apr 2024 14:35:02 -0400
+
+rockchip-firmware (20231105.git2107be54-16~noble) noble; urgency=medium
+
+  * Add BCM4345C0.hcd for the Orange Pi 5 Pro
+
+ -- Joshua Riek <jjriek@verizon.net>  Mon, 29 Apr 2024 08:56:43 -0400
+
+rockchip-firmware (20231105.git2107be54-15~noble) noble; urgency=medium
+
+  * Add brcmfmac43456 for the Orange Pi 5 Pro
+
+ -- Joshua Riek <jjriek@verizon.net>  Thu, 25 Apr 2024 12:21:08 -0400
+
+rockchip-firmware (20231105.git2107be54-14~noble) noble; urgency=medium
+
+  * Fix ap6275p for 6.1 bsp
+
+ -- Joshua Riek <jjriek@verizon.net>  Mon, 15 Apr 2024 12:59:07 -0400
+
+rockchip-firmware (20231105.git2107be54-13~noble) noble; urgency=medium
+
+  * Rebuild for noble
+
+ -- Joshua Riek <jjriek@verizon.net>  Wed, 10 Apr 2024 18:13:51 -0400
+
+rockchip-firmware (20231105.git2107be54-12~n) noble; urgency=medium
+
+  * Bump to Ubuntu Noble
+
+ -- Joshua Riek <jjriek@verizon.net>  Tue, 30 Jan 2024 21:12:40 -0500
+
+rockchip-firmware (20231105.git2107be54-12) jammy; urgency=medium
+
+  * Add uwe5622 firmware
+
+ -- Joshua Riek <jjriek@verizon.net>  Mon, 29 Jan 2024 13:25:04 -0500
+
+rockchip-firmware (20231105.git2107be54-11) jammy; urgency=medium
+
+  * Fix rtl8821cs via symlink
+
+ -- Joshua Riek <jjriek@verizon.net>  Fri, 26 Jan 2024 14:28:10 -0500
+
+rockchip-firmware (20231105.git2107be54-10) jammy; urgency=medium
+
+  * I broke it again
+
+ -- Joshua Riek <jjriek@verizon.net>  Fri, 26 Jan 2024 14:13:24 -0500
+
+rockchip-firmware (20231105.git2107be54-9) jammy; urgency=medium
+
+  * Fix typo in firmware name for rtl8821cs
+
+ -- Joshua Riek <jjriek@verizon.net>  Fri, 26 Jan 2024 14:09:35 -0500
+
+rockchip-firmware (20231105.git2107be54-8) jammy; urgency=medium
+
+  * Add 8822cs firmware for bsp kernel with symlink
+
+ -- Joshua Riek <jjriek@verizon.net>  Fri, 26 Jan 2024 13:59:14 -0500
+
+rockchip-firmware (20231105.git2107be54-7) jammy; urgency=medium
+
+  * Revert previous firmware change
+
+ -- Joshua Riek <jjriek@verizon.net>  Fri, 26 Jan 2024 13:01:02 -0500
+
+rockchip-firmware (20231105.git2107be54-6) jammy; urgency=medium
+
+  * Add 8822cs firmware
+
+ -- Joshua Riek <jjriek@verizon.net>  Fri, 26 Jan 2024 12:40:32 -0500
+
+rockchip-firmware (20231105.git2107be54-5) jammy; urgency=medium
+
+  * Add ap6212 firmware
+
+ -- Joshua Riek <jjriek@verizon.net>  Mon, 22 Jan 2024 17:24:53 -0500
+
+rockchip-firmware (20231105.git2107be54-4) jammy; urgency=medium
+
+  * Add aic8800 firmware
+
+ -- Joshua Riek <jjriek@verizon.net>  Sat, 13 Jan 2024 22:03:49 -0500
+
+rockchip-firmware (20231105.git2107be54-3) jammy; urgency=medium
+
+  * Remove more confliicting firmware
+
+ -- Joshua Riek <jjriek@verizon.net>  Sun, 05 Nov 2023 17:54:06 -0500
+
+rockchip-firmware (20231105.git2107be54-2) jammy; urgency=medium
+
+  * Remove brcm firmware
+
+ -- Joshua Riek <jjriek@verizon.net>  Sun, 05 Nov 2023 17:07:09 -0500
+
+rockchip-firmware (20231105.git2107be54-1) jammy; urgency=medium
+
+  * Initial release. 
+
+ -- Joshua Riek <jjriek@verizon.net>  Sun, 05 Nov 2023 13:41:59 -0500
